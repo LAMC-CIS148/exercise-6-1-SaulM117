@@ -90,7 +90,7 @@ section article h3 {
 	padding-bottom: .25em;
 }
 section article img {
-	float: left;
+	float: right;
 	margin: 10px 0 10px 20px;
 	border: 1px solid black;
 }
