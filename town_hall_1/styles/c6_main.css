@@ -64,9 +64,6 @@ section h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
 }
-section img {
-	padding-bottom: 1em;
-}
 section p {
 	padding-bottom: .5em;
 }
@@ -91,6 +88,11 @@ section article h2 {
 section article h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
+}
+section article img {
+	float: right;
+	margin: 10px 0 10px 20px;
+	border: 1px solid black;
 }
 /* the styles for the aside */
 aside {
